@@ -1,0 +1,3 @@
+[] small, fast, feature rich JS library
+[] makes things like DOM manipulation, event handling, and Ajax much easier
+[] write less code
